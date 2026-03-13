@@ -1095,11 +1095,6 @@
 213.177.119.232/30
 213.177.119.192/28
 
-# Networks announced by AS49063
-# AS-Name: DTLN-CUSTOMERS-X5-Retail
-# X5 Retail Group Moscow
-178.20.234.192/29
-
 # Networks announced by AS12389
 # AS-Name: DUMAHMAO-NET
 # DUMA HMAO
@@ -12253,29 +12248,6 @@
 # RKNFILTER zone
 # Moscow, Russia
 195.94.233.64/27
-
-# Networks announced by AS44704
-# AS-Name: X5-CENTER
-# Org: PJSC X5 Corporate Center
-# Corporate Center X5 PJSC
-193.232.108.0/24
-
-# Networks announced by AS8371
-# AS-Name: X5-NNOV-RU
-# OOO "Sladkaia zhizn N.N."
-# 74, Litvinova st., N.Novgorod, 603002, RU
-195.98.48.240/29
-
-# Networks announced by AS44704
-# AS-Name: X5-RETAIL-GROUP-NET
-# Org: Perekrestok-2000 LLC
-195.42.96.0/23
-
-# Networks announced by AS25513
-# AS-Name: X5RETAIL-NET
-# CJSC X5 Retail Group N.V.
-# Russia, Moscow, Sr.Kalitnikovskaya street, 4/28
-94.139.117.64/26
 
 # Networks announced by AS13238
 # AS-Name: YANDEX-V6-2a02-6bf-fa1f--48
