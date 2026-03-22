@@ -12876,3 +12876,10 @@
 # FGUP "41 Centralnyi zavod zheleznodorozhnoi techniki"
 213.85.142.176/28
 
+# Networks announced by AS203502 
+# also from https://bgp.tools/rir-owner/ru.telega
+# AS-Name: Telega
+# JOINT STOCK COMPANY "TELEGA"
+130.49.152.0/24
+157.22.220.0/23
+2a11:87c0::/29
